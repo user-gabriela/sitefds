@@ -1,0 +1,36 @@
+body{
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+}
+h1{
+    color: darkblue;
+    text-align: center;
+}
+p{
+    font-size: 18px;
+    text-align: justify;
+}
+ul li{
+    margin-bottom: 10px;
+}
+img{
+    display: block;
+    max-width: 200px;
+    margin: 10px;
+    border-radius:10px;
+}
+table{
+    width: 30%;
+    border-collapse: collapse;
+    margin: 15px 0 ;
+}
+table td{
+    border: 5px solid darkblue;
+    padding: 8px;
+}
+a{
+    color: darkblue;
+}
+a:hover{
+    color: white;
+}
